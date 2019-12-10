@@ -1,1 +1,1 @@
-# mc-example
+# MC-Example
